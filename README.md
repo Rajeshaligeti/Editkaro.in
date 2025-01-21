@@ -7,12 +7,14 @@ This is the official website for **Editkaro.in**, a digital editing and marketin
 You can view the live website here: [Editkaro.in](https://web-project-xnt2.onrender.com/)
 
 ### Demo Video
+![Demo Video Thumbnail](thumbnail_image.jpg) 
+
 Watch the demo video to see how the website works and the features it offers:  
-[Watch the demo video](https://drive.google.com/your_video_link)  
+[Watch the demo video]([https://drive.google.com/your_video_link](https://drive.google.com/file/d/1FXLSFXCd38FyyCEeg2UzZr5KYNPa-ass/view?usp=sharing))  
 
 *Or*  
 
-[Download the demo video](https://drive.google.com/your_video_link)  
+[Download the demo video]([https://drive.google.com/your_video_link](https://drive.google.com/file/d/1FXLSFXCd38FyyCEeg2UzZr5KYNPa-ass/view?usp=sharing))  
 
 ## Key Features
 
