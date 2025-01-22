@@ -104,7 +104,7 @@ Watch the demo video to see how the website works and the features it offers:
 - Resolved issues with the "Get a Quote" button.
 
 ### Rajesh Aligeti:
-- Rewrote and refined multiple sections of the Editkaro.in website, including headings, descriptions, and testimonials, to improve clarity and engagement.
+- Rewrote and refined multiple sections of the Editkaro.in website to improve clarity and engagement.
 - Ensured all textual elements were consistent with the brand's voice and messaging, maintaining a professional tone.
 - Focused on delivering clear, concise, and engaging content to enhance the overall user experience.
 
