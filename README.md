@@ -114,6 +114,3 @@ Watch the demo video to see how the website works and the features it offers:
 2. **Git Branch Merging**:
    - Solution: Restructured the file hierarchy to ensure smooth merging of features and codebase integration.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
