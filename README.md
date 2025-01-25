@@ -45,7 +45,7 @@ Watch the demo video to see how the website works and the features it offers:
 1. Clone the repository:
 
    ```bash
-  https://github.com/Rajeshaligeti/Editkaro.in.git
+   https://github.com/Rajeshaligeti/Editkaro.in.git
    cd Editkaro.in
    ```
 
