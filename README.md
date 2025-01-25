@@ -45,8 +45,8 @@ Watch the demo video to see how the website works and the features it offers:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/editkaro-in.git
-   cd editkaro-in
+  https://github.com/Rajeshaligeti/Editkaro.in.git
+   cd Editkaro.in
    ```
 
 2. Install the required dependencies:
